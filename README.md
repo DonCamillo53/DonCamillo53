@@ -6,7 +6,7 @@ My name is Camillo, and I'm a full-stack developer based in Berlin, Germany. Alt
 
 ## Programming languages/Skills
 
-- JavaScript (React.js, Node.js, Next.js)
+- JavaScript (Node.js, Next.js, React.js)
 - MongoDB
 - HTML
 - CSS
